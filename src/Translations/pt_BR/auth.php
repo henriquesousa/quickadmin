@@ -5,6 +5,14 @@ return [
   'whoops'  => 'Oops !',
   'some_problems_with_input' => 'Aconteceu algum problema com os dados informados.',  
 
+  // auth-register
+  'register-register' => 'Reistrar Usuário',
+  'register-name' => 'Nome',
+  'register-email' => 'Email',
+  'register-password' => 'Senha',
+  'register-password-confirm' => 'Confirmação da Senha', 
+  'register-btnlogin' => 'Registrar',  
+  
   // auth-login
   'login-login' => 'Entrar',
   'login-email' => 'Email',
