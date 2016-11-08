@@ -9,7 +9,8 @@ return [
 
   // admin-partials-sidebar
   'partials-sidebar-menu' => 'Menu',
-  'partials-sidebar-users' => 'Usuários',  
+  'partials-sidebar-users' => 'Usuários',
+  'partials-sidebar-roles' => 'Regras',
   'partials-sidebar-user-actions' => 'Ações dos Usuários',
   'partials-sidebar-logout' => 'Desconectar',
 
